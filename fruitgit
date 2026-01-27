@@ -1,0 +1,9 @@
+{
+  "Enable": false,
+  "Locales": ["Spanish"],
+  "Times": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
+  "Links":
+  [
+    { "Lang":"Spanish", "Link": [""]}
+  ]
+}
